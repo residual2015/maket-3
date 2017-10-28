@@ -1,0 +1,63 @@
+*{
+	box-sizing: border-box;
+}
+header{
+	background: url("../image/heder-bg.jpg") no-repeat center;
+	height: 930px;
+	margin: 10px auto 0;
+}
+.nav{
+	padding: 50px 70px 0;
+}
+.logo{
+	color: #ffffff;
+	font-family: Montserrat;
+	font-size: 70px;
+	font-weight: 500;
+	letter-spacing: 3.6px;
+}
+.menu a{
+	float: left;
+	text-decoration: none;
+	list-style: none;
+	color: #ffffff;
+	font-family: "Myriad Pro";
+	font-size: 24px;
+	font-weight: 400;
+	font-weight: 400;
+	font-family: "Font Awesome";
+	padding: 0 22px;
+}
+.header-title{
+	text-align: center;
+}
+.header-title h1{
+	color: #ffffff;
+	font-family: Montserrat;
+	font-size: 48px;
+	font-weight: 300;
+	line-height: 90px;
+	text-transform: uppercase;
+	margin-top:150px;
+}
+button{
+	background-color: transparent;
+	width: 281px;
+	height: 106px;
+	border: 2px solid #ffffff;
+	color: #ffffff;
+	font-family: Montserrat;
+	font-size: 29px;
+	font-weight: 400;
+	text-transform: uppercase;
+	margin: 0 auto;
+	outline: none;
+}
+button:focus{
+	outline: none;
+}
+.button{
+	margin-top: 69px;
+	text-align: center;
+}
+g
